@@ -20,7 +20,7 @@ If you found this project useful, then please consider giving it a :star: on Git
 
 ### YouTube Channel
 
-[MTechViral](https://www.youtube.com/mtechviral)
+[ESTech](https://www.youtube.com/channel/UCxNIoNQUsZrwr-LjcWDnBkQ)
 
 ## Getting Started
 
