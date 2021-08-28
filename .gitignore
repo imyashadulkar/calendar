@@ -15,7 +15,7 @@ doc/api/
 *.iml
 *.ipr
 *.iws
-.idea/
+.idea/*
 
 # Mac
 .DS_Store
